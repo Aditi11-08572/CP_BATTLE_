@@ -24,7 +24,7 @@ const NODE_ENV = process.env.NODE_ENV || 'development';
 
 
 // Update MongoDB connection configuration
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://codecraft_admin:t6xiITkFGLEjsAwa@cluster0.pwpdn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://Aditi:aditikhedkar@cpbattle.rq74j.mongodb.net/?retryWrites=true&w=majority&appName=CPBATTLE';
 
 
 // Replace the existing mongoose.connect with this:
