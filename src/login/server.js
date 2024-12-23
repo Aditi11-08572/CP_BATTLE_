@@ -67,8 +67,8 @@ const User = mongoose.model('User', userSchema);
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'laxmikant.mahindrakar@walchandsangli.ac.in',
-        pass: 'umko baqo wjah pyjo'
+        user: 'adikhedkar564@gmail.com',
+        pass: 'yyvx dqgt lvnt omhl'
     },
     tls: {
         rejectUnauthorized: false
